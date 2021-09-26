@@ -5,7 +5,7 @@
 #include <string>
 #include <io2d.h>
 #include "route_model.h"
-#include "render.h"dd
+#include "render.h"
 #include "route_planner.h"
 
 using namespace std::experimental;
